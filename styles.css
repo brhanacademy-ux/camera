@@ -3,8 +3,8 @@
   --bg-soft: #121b2d;
   --panel: #15233d;
   --panel-strong: #0f172a;
-  --text: #edf3ff;
-  --muted: #b1c0dc;
+  --text: #101011;
+  --muted: #2a2f38;
   --accent: #f6b93b;
   --accent-strong: #f59e0b;
   --line: rgba(255, 255, 255, 0.08);
@@ -287,7 +287,7 @@ img {
   border: 1px solid var(--line);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.02);
-  color: rgba(237, 243, 255, 0.74);
+  color: rgba(15, 15, 15, 0.74);
   text-transform: uppercase;
   letter-spacing: 0.14em;
   font-weight: 600;
